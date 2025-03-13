@@ -28,7 +28,7 @@ added updExponentialMovingAverage to ncnspp.model.ema
 
 ## Before training or testing
 
-Before use of checkpoints, please run resave_params_ema.py This re-saves pre-trained checkpoints to make them compatible
+Before use of checkpoints (found at https://github.com/yang-song/score_sde_pytorch), please run resave_params_ema.py This re-saves pre-trained checkpoints to make them compatible
 
 Datasets will be automatically downloaded into the folders provided, if they are not there already.
 
