@@ -1,4 +1,4 @@
-# Implementation for the paper "Maximum a Posteriori Training of Diffusion Models for Image Restoration"
+# Implementation for the paper "Maximum A Posteriori Training of Diffusion Models for Image Restoration"
 
 
 ## Requirements
