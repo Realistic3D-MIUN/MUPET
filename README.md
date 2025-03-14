@@ -55,7 +55,7 @@ python IP_MUPET_train_script.py --pre_path /path/to/desired/reparametrized.ckpt 
 
 
 ## Evaluation
-Exact hyper-parameters and inference algorithm **VE DiffPIR** can be found here: [MUPET Supplemental](./MUPET_supplemental.pdf)
+Exact hyper-parameters and pseudocode for VE DiffPIR can be found here: [MUPET Supplemental](./MUPET_supplemental.pdf)
 
 To generate images from the prior, please use
 
